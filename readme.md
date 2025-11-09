@@ -23,6 +23,7 @@ Sivustolla on:
 
 ## Kuvakaappaus
 Etusivu näyttää tältä:
+
 ![Etusivu](./kuvat/Screenshot.png)
 
 
@@ -47,3 +48,4 @@ Verkkosivujen toteutuksessa hyödynnettiin seuraavia lähteitä:
 
 
 ## Lisenssi
+Tämä projekti on lisensoitu MIT-lisenssillä. Katso `LICENSE`-tiedosto lisätietoja varten.
